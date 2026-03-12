@@ -1,0 +1,5 @@
+[VERSION]
+LatestVersion = 4
+DownloadUrl = https://github.com/YOUR_GITHUB_USERNAME/AutomationToolUpdates/releases/download/v4/AutomationToolUpdate.zip
+Sha256 = PUT_REAL_SHA256_HERE
+Notes = Update 4
