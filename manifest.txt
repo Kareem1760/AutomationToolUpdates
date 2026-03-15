@@ -1,8 +1,8 @@
 [VERSION]
-LatestVersion = 5
-DownloadUrl = https://github.com/user-attachments/files/26000885/AutomationToolUpdate.zip
-Sha256 = D8DFA9BF00C767F3796EEF0DD248EBA19C3DCEC0F162F1D7C08E1E87B3327E47
-Notes = Update 5
+LatestVersion = 3
+DownloadUrl = https://github.com/user-attachments/files/26000921/AutomationToolUpdate.zip
+Sha256 = D02C34FBC7DBFAF1D63CD692461AA684A047932841AAFF1B4CA7D1E9F6EF9BA2
+Notes = Update 3
 
 LaunchExe = ZibyApp.exe
 DeleteOldExe = AutomationTool.UI.exe;AutomationTool.Core.dll;AutomationTool.UI.dll;AutomationTool.UI.deps.json;AutomationTool.UI.runtimeconfig.json
