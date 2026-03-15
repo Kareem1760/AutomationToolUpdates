@@ -1,7 +1,7 @@
 [VERSION]
 LatestVersion = 3
-DownloadUrl = https://github.com/user-attachments/files/26000921/AutomationToolUpdate.zip
-Sha256 = D02C34FBC7DBFAF1D63CD692461AA684A047932841AAFF1B4CA7D1E9F6EF9BA2
+DownloadUrl = https://github.com/user-attachments/files/26000933/AutomationToolUpdate.zip
+Sha256 = 7C728E575681875713FB4A03E28CD4FB15B460B66FA75B3DA68043CAAD09D941
 Notes = Update 3
 
 LaunchExe = ZibyApp.exe
