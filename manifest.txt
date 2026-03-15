@@ -1,6 +1,6 @@
 [VERSION]
 LatestVersion = 5
-DownloadUrl = https://github.com/user-attachments/files/26000844/update.zip
+DownloadUrl = https://github.com/user-attachments/files/26000858/AutomationToolUpdate.zip
 Sha256 = 2AA3484A219B6E8F66995BC183891BC7B2D9F5ED7A1E1859182209E8998767B5
 Notes = Update 5
 
